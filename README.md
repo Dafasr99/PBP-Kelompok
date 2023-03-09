@@ -13,7 +13,7 @@ Belum Tersedia
 ----
 ## Tutorial
 
-1. Buka terminal & masukkan
+1. Buka file yang ingin kamu simpan file PBP-KELOMPOK ini, di dalam direktory tersebut bukalah terminal dan masukkan dengan perintah:
 ```
 Git Clone https://github.com/Dafasr99/PBP-Kelompok.git
 ```
