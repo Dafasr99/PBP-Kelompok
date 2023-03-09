@@ -37,3 +37,5 @@ source env/bin/activate
 ```
 pip install -r requirements.txt
 ```
+
+![This is an image](https://toppng.com/uploads/preview/we-bare-bears-background-11549536415ojtizeutlu.png)
