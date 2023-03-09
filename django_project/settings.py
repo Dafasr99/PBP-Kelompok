@@ -41,7 +41,7 @@ if not PRODUCTION:
     ALLOWED_HOSTS += ['.localhost', '127.0.0.1', '[::1]']
 
 # For CSRF origin check verification
-CSRF_TRUSTED_ORIGINS = [f'{APP_NAME}.up.railway.app']
+CSRF_TRUSTED_ORIGINS = CSRF_TRUSTED_ORIGINS = ['https://.up.railway.app']
 
 # Application definition
 
