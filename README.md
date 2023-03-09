@@ -33,7 +33,7 @@ env\Scripts\activate.bat
 source env/bin/activate
 ```
 
-4. Instal dependencies yang diperlukan untuk menjalankan proyek Django dengan perintah perintah
+4. Instal dependencies yang diperlukan untuk menjalankan proyek Django dengan perintah:
 ```
 pip install -r requirements.txt
 ```
